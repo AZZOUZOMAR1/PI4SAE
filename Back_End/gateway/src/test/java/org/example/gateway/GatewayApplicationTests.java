@@ -1,10 +1,10 @@
-package org.example.condidat;
+package org.example.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CondidatApplicationTests {
+class GatewayApplicationTests {
 
     @Test
     void contextLoads() {

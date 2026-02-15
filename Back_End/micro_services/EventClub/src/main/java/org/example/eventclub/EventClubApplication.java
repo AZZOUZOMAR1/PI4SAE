@@ -1,13 +1,13 @@
-package org.example.condidat;
+package org.example.eventclub;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CondidatApplication {
+public class EventClubApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CondidatApplication.class, args);
+        SpringApplication.run(EventClubApplication.class, args);
     }
 
 }
